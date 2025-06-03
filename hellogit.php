@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    New Hola Git!
+    New Hola Github
 </body>
 </html>
